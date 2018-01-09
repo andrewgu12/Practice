@@ -1,0 +1,23 @@
+{
+  "name": "ctci",
+  "version": "1.0.0",
+  "description": "My solutions to Cracking the Coding Interview, in Ruby and Java.",
+  "main": "LibraryMethods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgu12/CrackingTheCodingInterview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewgu12/CrackingTheCodingInterview/issues"
+  },
+  "homepage": "https://github.com/andrewgu12/CrackingTheCodingInterview#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
